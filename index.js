@@ -1,2 +1,2 @@
-var FileCookieStore = require('./lib/filestore').FileCookieStore;
-module.exports = FileCookieStore;
+var JSONCookieStore = require('./lib/jsonstore').JSONCookieStore;
+module.exports = JSONCookieStore;
